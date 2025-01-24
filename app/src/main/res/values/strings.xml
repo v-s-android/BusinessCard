@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Andrew Garfield</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="phone">+1 12398892991</string>
+    <string name="insta">\@andrew</string>
+    <string name="gmail">andrew@gmail.com</string>
+</resources>
